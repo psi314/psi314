@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-five-sigma.vercel.app/api?username=Psicodes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&bg_color=000000&order=1&title_color=ffffff" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-five-sigma.vercel.app/api?username=Psi314&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&bg_color=000000&order=1&title_color=ffffff" height="150" alt="stats graph"  />
 </div>
 
 ###
